@@ -1,0 +1,10 @@
+.title{
+	font-size: 40px;
+	text-transform: uppercase;
+	color: #ce426d;
+}
+
+.title:hover {
+  font-weight:      bold;
+  background-color: #71b1d6;
+ }
